@@ -2,8 +2,8 @@
 Within module 323 is an application to create, manage and delete quiz cards. 
 
 # Sources
+* 323-Arbeitsblätter (https://github.com/SwitzerChees),
 * Ramda (https://ramdajs.com/), 
-* Ramda sortBy (https://cek.io/blog/2016/10/29/ramda-sort-tiebreakers-comparators-either/), 
 * Tailwind (https://tailwindcss.com/)
 
 # Functions
